@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website contents
 
-ABCD
-
-erar
+1. index.html
